@@ -2,3 +2,5 @@ This is the third file.
 
 I've made changes to this file.
 It is not the orginal version.
+
+This is the second change made on branch1, and will be merged into master later.
