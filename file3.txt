@@ -1,1 +1,4 @@
 This is the third file.
+
+I've changed the content of this file.
+Now it is not the original version.
